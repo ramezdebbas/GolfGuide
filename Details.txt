@@ -1,0 +1,12 @@
+Golf Guide:
+Description:
+Golf Guide is an app where you can find the best methods to play golf, and some strategies to how to play golf in an interactive way. Simply the way you can adopt the best practices about golf.
+
+Features:
+•	Fully research based application to Play Golf.
+•	The Research results on How to play golf in an interactive way.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
+•	Refresh Every Page of App.
